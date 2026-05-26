@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Street View → JPG</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <link rel="icon" type="image/png" href="{{ url_for('static', filename='icon.png') }}">
+</head>
+<body>
+
+  <div class="card">
+    <h1>🌍 Street View → JPG</h1>
+    <p class="subtitle">Paste a Google Maps Street View link to generate the four perspective previews.</p>
+
+    <!--
+      action="/" → sends the form to the root route of your Flask app
+      method="POST" → Flask will read request.method == 'POST'
+    -->
+    <form action="/generate" method="POST">
+      <label for="url">Google Maps Street View URL</label>
+      <input
+        type="text"
+        id="url"
+        name="url"
+        placeholder="https://www.google.com/maps/@48.858..."
+        required
+      />
+      <label for="resolution">Quality</label>
+      <input
+        type="range"
+        id="resolution"
+        name="resolution"
+        min="1"
+        max="5"
+        value="4"
+        step="1"
+      />
+      <div class="slider-value">Resolution: <span id="resolution-value">Full HD</span></div>
+      <button type="submit" class="submit-button">
+        <span class="button-text">Generate previews</span>
+        <span class="spinner" aria-hidden="true"></span>
+      </button>
+    </form>
+
+    <!-- Only shown if Flask passed an error variable -->
+    {% if error %}
+      <div class="error">⚠ {{ error }}</div>
+    {% endif %}
+
+    {% if images %}
+      <section class="preview-section">
+        <h2>Preview all 4 views</h2>
+        {% set labels = ['Front', 'Skewed1', 'Back', 'Skewed2'] %}
+        <div class="gallery">
+          {% for image in images[:4] %}
+            <article class="image-card">
+              <img src="{{ image }}" alt="Street View preview {{ loop.index }}" loading="lazy" />
+              <div class="image-meta">
+                <span>{{ labels[loop.index0] }}</span>
+                <a href="{{ image }}" download="streetview-{{ loop.index }}.jpg" class="download-chip">Download</a>
+              </div>
+            </article>
+          {% endfor %}
+        </div>
+        {% if images|length > 4 %}
+          <div class="panorama-container">
+            <article class="panorama-card">
+              <img src="{{ images[4] }}" alt="Street View panorama" loading="lazy" />
+              <div class="image-meta">
+                <span>Panorama</span>
+                <a href="{{ images[4] }}" download="streetview-panorama.jpg" class="download-chip">Download</a>
+              </div>
+            </article>
+          </div>
+        {% endif %}
+      </section>
+    {% endif %}
+
+    <p class="hint">
+      How to get a Street View link: open Google Maps, drag the yellow pegman onto the map,
+      then copy the URL from your browser's address bar.
+    </p>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

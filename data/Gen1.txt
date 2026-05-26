@@ -1,0 +1,45 @@
+Gen1 :
+
+https://www.google.com/maps/@-22.7962205,136.3251417,3a,90y,68.86h,88.58t/data=!3m7!1e1!3m5!1sJKZhgKmx_-vBiMTGVx9xjg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.4205112768982104%26panoid%3DJKZhgKmx_-vBiMTGVx9xjg%26yaw%3D68.85864974946948!7i3328!8i1664?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D
+
+!7i3328!8i1664
+
+Gen 2:
+
+https://www.google.com/maps/@22.157481,113.5553354,3a,90y,308.63h,88.53t/data=!3m7!1e1!3m5!1sGZ-0Fru1elQoirYzSViM1g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.4675813265718034%26panoid%3DGZ-0Fru1elQoirYzSViM1g%26yaw%3D308.6314325358309!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D
+
+!7i13312!8i6656
+
+Gen 3:
+
+https://www.google.com/maps/@-33.8776651,-56.1259376,3a,90y,353.42h,90.62t/data=!3m7!1e1!3m5!1sRPyQ9560ivQzzD-CpmDwXg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.6162398469634383%26panoid%3DRPyQ9560ivQzzD-CpmDwXg%26yaw%3D353.41734597393804!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D
+
+https://www.google.com/maps/@42.4130364,13.7436385,3a,90y,171.06h,85.77t/data=!3m7!1e1!3m5!1sdXEnTw-GyN5PIJUY8Ipg0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.227512481914815%26panoid%3DdXEnTw-GyN5PIJUY8Ipg0w%26yaw%3D171.0636528709523!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D
+
+!7i13312!8i6656
+
+Gen 4:
+
+https://www.google.com/maps/@30.7817987,-90.8707171,3a,90y,172.5h,88.9t/data=!3m7!1e1!3m5!1sNCjhKUtycGHbhJdbTGumSA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.1036648960702422%26panoid%3DNCjhKUtycGHbhJdbTGumSA%26yaw%3D172.50221822117533!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D
+
+!7i16384!8i8192
+
+Smallcam:
+
+https://www.google.com/maps/@43.4282427,5.2725774,3a,90y,281.83h,91.4t/data=!3m7!1e1!3m5!1swTA_bsD7tV4inkI6zwLE8w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.3953275898642516%26panoid%3DwTA_bsD7tV4inkI6zwLE8w%26yaw%3D281.8327824975933!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D
+
+!7i16384!8i8192
+
+Shitcam:
+
+https://www.google.com/maps/@21.4386121,77.4733194,3a,90y,284.46h,91.2t/data=!3m7!1e1!3m5!1sUIR-LhFz7NqqtzSxbPs24A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.200083362456681%26panoid%3DUIR-LhFz7NqqtzSxbPs24A%26yaw%3D284.4649471072391!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D
+
+!7i13312!8i6656
+
+Shitcam26:
+
+https://www.google.com/maps/@47.3405906,-0.5193719,3a,75y,112.95h,88.64t/data=!3m8!1e1!3m6!1s6lk8TbspMtU3421ZHoerjA!2e0!5s20221101T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.359718901202001%26panoid%3D6lk8TbspMtU3421ZHoerjA%26yaw%3D112.94599735248089!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D
+
+!7i13312!8i6656
+
+
