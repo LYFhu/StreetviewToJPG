@@ -2,6 +2,12 @@ Link: https://streetviewtojpg-production.up.railway.app/
 
 EN:
 
+Hi everyone from Geoguessr NMPZ community (and else), aren't you annoyed when you want to upload an NMPZ location to your friends, and you always have Google labels and UI that spoils or ruin the location?
+In the porsuit to solve this prooblem, I'm introducing a very simple web tool, where one can enter a Google Streetview url and and dowload the desired images very easily without labels or UI problem.
+The goal is to recreate at most the Geoguesst true NMPZ experience and make it easy to share with friends. Un little compass is also added in the same desire.
+
+Note that the project is at this date still in alpha and a lot of bugs are still present.
+
 FR:
 
 Heyy tout le monde de la commu loc nmpz (et pas que), en avez-vous pas mare de vouloir upload une loc nmpz mais y'a toujours des label Google ou l'UI qui gache ou qui spoil la loc ? 
