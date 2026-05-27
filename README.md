@@ -6,7 +6,7 @@ Hi everyone from Geoguessr NMPZ community (and else), aren't you annoyed when yo
 In the porsuit to solve this prooblem, I'm introducing a very simple web tool, where one can enter a Google Streetview url and and dowload the desired images very easily without labels or UI problem.
 The goal is to recreate at most the Geoguesst true NMPZ experience and make it easy to share with friends. Un little compass is also added in the same desire.
 
-Note that the project is at this date still in alpha and a lot of bugs are still present.
+Note that the project is at this date still in alpha and a lot of bugs are still present. I'm open to 
 
 FR:
 
